@@ -1,0 +1,39 @@
+.frame {
+    border-style: groove;
+    border-radius: 5%;
+    border: 10%;
+    width: fit-content;
+    margin: auto;
+    margin-top: 10%;
+    background-color: rgb(197, 197, 187);
+}
+
+.monitor {
+    background-color: aliceblue;
+    margin: 15px;
+    border-style: inherit;
+    border: 50%;
+    font-family:cursive;
+    font-size: large;
+    width: 302px;
+    overflow: auto;
+}
+
+.operator {
+    width: 60px;
+    height: 45px;
+    font-size: x-large;
+}
+
+.number-table {
+    margin-left: 15PX;
+    margin-right: 15PX;
+    margin-bottom: 15PX;
+}
+
+.num {
+    width: 70px;
+    height: 45px;
+    margin-top: 4px;
+    font-size: x-large;
+}
